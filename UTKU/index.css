@@ -1,0 +1,44 @@
+.d1 {
+    background-color: rgb(227, 227, 227);
+    height: 500px;
+    width: auto;
+    margin-top: 100px;
+    margin-left:150px;
+    border-style: solid;
+    border-radius: 10px;    
+    box-shadow: 1px 1px 15px 1px rgb(40, 40, 40);
+    border-width: 1px;
+    border-color: rgb(227, 227, 227);
+    margin-bottom: 50px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.d2 {
+    display: inline-block;
+    height: 300px;
+    border-style: solid;
+    border-radius: 10px; 
+    width: 600px;
+    border-color: rgb(227, 227, 227);
+    margin-left: 20px;
+    background-color: rgb(227, 227, 227);
+    padding-top: 40px;
+    padding-left: 50px;
+}
+
+.d3 {
+    display: inline-block;
+    height: 300px;
+    border-style: solid;
+    border-radius: 10px; 
+    border-color: rgb(227, 227, 227);
+    width: 600px;
+    margin-left: 260px;
+    background-color: rgb(227, 227, 227);
+
+
+}
